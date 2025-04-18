@@ -1,4 +1,5 @@
 #https://codeforces.com/contest/371/problem/C
+#striver sde sheet Hambrugers
 from collections import Counter 
 d=Counter(input())
 nb,ns,nc=map(int,input().split())
